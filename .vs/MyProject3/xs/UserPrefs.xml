@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C3EA0EBB-7F5C-402C-B0B4-941628F853E4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.MyProject3 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyProject3/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="MyProject3/Startup.cs" />
+      <File FileName="MyProject3/Models/Department.cs" />
+      <File FileName="MyProject3/Models/Employee.cs" />
+      <File FileName="MyProject3/Controllers/DepartmentController.cs" />
+      <File FileName="MyProject3/Properties/launchSettings.json" />
+      <File FileName="MyProject3/appsettings.json" />
+      <File FileName="MyProject3/Controllers/EmployeeController.cs" Line="57" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyProject3" expanded="True">
+            <Node name="MyProject3" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
